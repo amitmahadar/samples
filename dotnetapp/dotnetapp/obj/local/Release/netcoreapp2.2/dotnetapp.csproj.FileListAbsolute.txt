@@ -1,0 +1,14 @@
+D:\Amit\dotnet\azure\dotnet-docker-master\samples\dotnetapp\dotnetapp\bin\local\Release\netcoreapp2.2\dotnetapp.deps.json
+D:\Amit\dotnet\azure\dotnet-docker-master\samples\dotnetapp\dotnetapp\bin\local\Release\netcoreapp2.2\dotnetapp.runtimeconfig.json
+D:\Amit\dotnet\azure\dotnet-docker-master\samples\dotnetapp\dotnetapp\bin\local\Release\netcoreapp2.2\dotnetapp.runtimeconfig.dev.json
+D:\Amit\dotnet\azure\dotnet-docker-master\samples\dotnetapp\dotnetapp\bin\local\Release\netcoreapp2.2\dotnetapp.dll
+D:\Amit\dotnet\azure\dotnet-docker-master\samples\dotnetapp\dotnetapp\bin\local\Release\netcoreapp2.2\dotnetapp.pdb
+D:\Amit\dotnet\azure\dotnet-docker-master\samples\dotnetapp\dotnetapp\bin\local\Release\netcoreapp2.2\utils.dll
+D:\Amit\dotnet\azure\dotnet-docker-master\samples\dotnetapp\dotnetapp\bin\local\Release\netcoreapp2.2\utils.pdb
+D:\Amit\dotnet\azure\dotnet-docker-master\samples\dotnetapp\dotnetapp\obj\local\Release\netcoreapp2.2\dotnetapp.csprojAssemblyReference.cache
+D:\Amit\dotnet\azure\dotnet-docker-master\samples\dotnetapp\dotnetapp\obj\local\Release\netcoreapp2.2\dotnetapp.csproj.CoreCompileInputs.cache
+D:\Amit\dotnet\azure\dotnet-docker-master\samples\dotnetapp\dotnetapp\obj\local\Release\netcoreapp2.2\dotnetapp.AssemblyInfoInputs.cache
+D:\Amit\dotnet\azure\dotnet-docker-master\samples\dotnetapp\dotnetapp\obj\local\Release\netcoreapp2.2\dotnetapp.AssemblyInfo.cs
+D:\Amit\dotnet\azure\dotnet-docker-master\samples\dotnetapp\dotnetapp\obj\local\Release\netcoreapp2.2\dotnetapp.csproj.CopyComplete
+D:\Amit\dotnet\azure\dotnet-docker-master\samples\dotnetapp\dotnetapp\obj\local\Release\netcoreapp2.2\dotnetapp.dll
+D:\Amit\dotnet\azure\dotnet-docker-master\samples\dotnetapp\dotnetapp\obj\local\Release\netcoreapp2.2\dotnetapp.pdb

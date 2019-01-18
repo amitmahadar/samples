@@ -1,0 +1,8 @@
+D:\Amit\dotnet\azure\dotnet-docker-master\samples\dotnetapp\utils\bin\local\Release\netstandard2.0\utils.deps.json
+D:\Amit\dotnet\azure\dotnet-docker-master\samples\dotnetapp\utils\bin\local\Release\netstandard2.0\utils.dll
+D:\Amit\dotnet\azure\dotnet-docker-master\samples\dotnetapp\utils\bin\local\Release\netstandard2.0\utils.pdb
+D:\Amit\dotnet\azure\dotnet-docker-master\samples\dotnetapp\utils\obj\local\Release\netstandard2.0\utils.csproj.CoreCompileInputs.cache
+D:\Amit\dotnet\azure\dotnet-docker-master\samples\dotnetapp\utils\obj\local\Release\netstandard2.0\utils.AssemblyInfoInputs.cache
+D:\Amit\dotnet\azure\dotnet-docker-master\samples\dotnetapp\utils\obj\local\Release\netstandard2.0\utils.AssemblyInfo.cs
+D:\Amit\dotnet\azure\dotnet-docker-master\samples\dotnetapp\utils\obj\local\Release\netstandard2.0\utils.dll
+D:\Amit\dotnet\azure\dotnet-docker-master\samples\dotnetapp\utils\obj\local\Release\netstandard2.0\utils.pdb

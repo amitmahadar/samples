@@ -1,0 +1,17 @@
+D:\Amit\dotnet\azure\dotnet-docker-master\samples\dotnetapp\tests\bin\local\Debug\netcoreapp2.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+D:\Amit\dotnet\azure\dotnet-docker-master\samples\dotnetapp\tests\bin\local\Debug\netcoreapp2.0\xunit.runner.reporters.netcoreapp10.dll
+D:\Amit\dotnet\azure\dotnet-docker-master\samples\dotnetapp\tests\bin\local\Debug\netcoreapp2.0\xunit.runner.utility.netcoreapp10.dll
+D:\Amit\dotnet\azure\dotnet-docker-master\samples\dotnetapp\tests\bin\local\Debug\netcoreapp2.0\tests.deps.json
+D:\Amit\dotnet\azure\dotnet-docker-master\samples\dotnetapp\tests\bin\local\Debug\netcoreapp2.0\tests.runtimeconfig.json
+D:\Amit\dotnet\azure\dotnet-docker-master\samples\dotnetapp\tests\bin\local\Debug\netcoreapp2.0\tests.runtimeconfig.dev.json
+D:\Amit\dotnet\azure\dotnet-docker-master\samples\dotnetapp\tests\bin\local\Debug\netcoreapp2.0\tests.dll
+D:\Amit\dotnet\azure\dotnet-docker-master\samples\dotnetapp\tests\bin\local\Debug\netcoreapp2.0\tests.pdb
+D:\Amit\dotnet\azure\dotnet-docker-master\samples\dotnetapp\tests\bin\local\Debug\netcoreapp2.0\utils.dll
+D:\Amit\dotnet\azure\dotnet-docker-master\samples\dotnetapp\tests\bin\local\Debug\netcoreapp2.0\utils.pdb
+D:\Amit\dotnet\azure\dotnet-docker-master\samples\dotnetapp\tests\obj\local\Debug\netcoreapp2.0\tests.csprojAssemblyReference.cache
+D:\Amit\dotnet\azure\dotnet-docker-master\samples\dotnetapp\tests\obj\local\Debug\netcoreapp2.0\tests.csproj.CoreCompileInputs.cache
+D:\Amit\dotnet\azure\dotnet-docker-master\samples\dotnetapp\tests\obj\local\Debug\netcoreapp2.0\tests.AssemblyInfoInputs.cache
+D:\Amit\dotnet\azure\dotnet-docker-master\samples\dotnetapp\tests\obj\local\Debug\netcoreapp2.0\tests.AssemblyInfo.cs
+D:\Amit\dotnet\azure\dotnet-docker-master\samples\dotnetapp\tests\obj\local\Debug\netcoreapp2.0\tests.csproj.CopyComplete
+D:\Amit\dotnet\azure\dotnet-docker-master\samples\dotnetapp\tests\obj\local\Debug\netcoreapp2.0\tests.dll
+D:\Amit\dotnet\azure\dotnet-docker-master\samples\dotnetapp\tests\obj\local\Debug\netcoreapp2.0\tests.pdb
