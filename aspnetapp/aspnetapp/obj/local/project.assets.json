@@ -12081,11 +12081,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Amit\\dotnet\\azure\\dotnet-docker-master\\samples\\aspnetapp\\aspnetapp\\aspnetapp.csproj",
+      "projectUniqueName": "D:\\Amit\\dotnet\\samples\\aspnetapp\\aspnetapp\\aspnetapp.csproj",
       "projectName": "aspnetapp",
-      "projectPath": "D:\\Amit\\dotnet\\azure\\dotnet-docker-master\\samples\\aspnetapp\\aspnetapp\\aspnetapp.csproj",
+      "projectPath": "D:\\Amit\\dotnet\\samples\\aspnetapp\\aspnetapp\\aspnetapp.csproj",
       "packagesPath": "C:\\Users\\amitv\\.nuget\\packages\\",
-      "outputPath": "D:\\Amit\\dotnet\\azure\\dotnet-docker-master\\samples\\aspnetapp\\aspnetapp/obj/local/",
+      "outputPath": "D:\\Amit\\dotnet\\samples\\aspnetapp\\aspnetapp/obj/local/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
