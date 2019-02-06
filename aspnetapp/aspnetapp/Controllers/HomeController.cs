@@ -17,7 +17,7 @@ namespace aspnetapp.Controllers
 
         public IActionResult About()
         {
-            ViewData["Message"] = "Claims Manager";
+            ViewData["Message"] = "Claims Manager (U.S. Bank)";
 
             return View();
         }
